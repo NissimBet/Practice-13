@@ -1,3 +1,10 @@
+//
+//	This library is implementing the code of Nissim Betesh, however slightly changed
+//	Made By:
+//		Nissim Betesh 
+//		Jorge Sabella
+///
+
 #include <stdio.h>
 #include <float.h>
 
